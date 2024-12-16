@@ -24,7 +24,7 @@
         <mapping class="com.hibernate.assign.model.Employee" />
         
 	</session-factory>
-</hibernate-configuration>	
+ </hibernate-configuration>	
 
 
 
